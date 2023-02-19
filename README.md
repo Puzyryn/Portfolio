@@ -1,3 +1,3 @@
 # Portfolio
 
-[puzyrin.com](#puzyrin.com)
+[puzyrin.com](puzyrin.com)
